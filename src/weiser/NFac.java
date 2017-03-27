@@ -2,7 +2,7 @@ package weiser;
 
 public class NFac {
 
-	public static int nFac(int n) {
+	public int nFac(int n) {
 		if (n == 0) {
 			return 1;
 		}
